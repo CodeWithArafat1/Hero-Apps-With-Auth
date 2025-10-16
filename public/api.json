@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "image": "https://img.icons8.com/?size=100&id=16713&format=png&color=000000",
+    "description": "A freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms. It allows users to send text messages and voice messages, make voice and video calls, and share images, documents, user locations, and other content. WhatsApp's client application runs on mobile devices but is also accessible from desktop computers, as long as the user's mobile device remains connected to the Internet while they use the desktop app. The service requires a cellular mobile telephone number to sign up. Known for its end-to-end encryption, it ensures secure communication for over two billion users worldwide, making it the most popular messaging app globally.",
+    "size": 55,
+    "reviews": 185345987,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 20123456 },
+      { "name": "2 star", "count": 8456789 },
+      { "name": "3 star", "count": 15789123 },
+      { "name": "4 star", "count": 28987654 },
+      { "name": "5 star", "count": 111988965 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "image": "https://img.icons8.com/?size=100&id=oKHadYScUe2I&format=png&color=000000",
+    "description": "A video-focused social networking service owned by Chinese company ByteDance Ltd. It hosts a variety of short-form user videos, from genres like pranks, stunts, tricks, jokes, dance, and entertainment with durations from 15 seconds to ten minutes. TikTok is an international version of Douyin, which was originally released in the Chinese market in September 2016. Its powerful, algorithm-driven 'For You' page provides a personalized stream of content that has made it a dominant force in online culture, setting trends in music, fashion, and more. Users have access to a wide array of music, filters, and editing tools to create compelling content.",
+    "size": 120,
+    "reviews": 150234876,
+    "ratingAvg": 4.5,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 15234567 },
+      { "name": "2 star", "count": 6789123 },
+      { "name": "3 star", "count": 10456789 },
+      { "name": "4 star", "count": 25765432 },
+      { "name": "5 star", "count": 91988965 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "image": "https://img.icons8.com/?size=100&id=32323&format=png&color=000000",
+    "description": "A photo and video sharing social networking service owned by Meta Platforms. The app allows users to upload media that can be edited with filters and organized by hashtags and geographical tagging. Posts can be shared publicly or with pre-approved followers. Users can browse other users' content by tag and location, view trending content, like photos, and follow other users to add their content to a personal feed. Key features include Instagram Stories, which allows users to post photos and videos to a sequential feed that disappears after 24 hours, and Reels, its short-form video competitor to TikTok, making it a versatile visual-first platform.",
+    "size": 85,
+    "reviews": 142789456,
+    "ratingAvg": 4.4,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 16456789 },
+      { "name": "2 star", "count": 7891234 },
+      { "name": "3 star", "count": 12345678 },
+      { "name": "4 star", "count": 28987654 },
+      { "name": "5 star", "count": 77108101 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "image": "https://img.icons8.com/?size=100&id=W9M6LCrTvolF&format=png&color=000000",
+    "description": "A proprietary Swedish audio streaming and media services provider. It is one of the largest music streaming service providers, with over 433 million monthly active users, including 188 million paying subscribers, as of June 2022. Spotify offers digital copyright restricted recorded music and podcasts, including more than 82 million songs, from record labels and media companies. As a freemium service, basic features are free with advertisements and limited control, while additional features, such as offline listening and commercial-free listening, are offered via paid subscriptions. Its algorithmically generated playlists like 'Discover Weekly' are highly praised for music discovery.",
+    "size": 75,
+    "reviews": 25876123,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1234567 },
+      { "name": "2 star", "count": 876543 },
+      { "name": "3 star", "count": 1543210 },
+      { "name": "4 star", "count": 4567890 },
+      { "name": "5 star", "count": 17653913 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "image": "https://img.icons8.com/?size=100&id=20519&format=png&color=000000",
+    "description": "A subscription-based streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices. Users can watch as much as they want, anytime, anywhere, without a single ad. The service is known for its extensive library of content and for producing its own original programming, known as 'Netflix Originals'. Its recommendation algorithm suggests content based on a user's viewing history, and the platform has popularized the concept of 'binge-watching' by releasing entire seasons of its original shows at once. It supports multiple profiles within an account for a personalized experience.",
+    "size": 60,
+    "reviews": 12456789,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 987654 },
+      { "name": "2 star", "count": 543210 },
+      { "name": "3 star", "count": 876543 },
+      { "name": "4 star", "count": 2345678 },
+      { "name": "5 star", "count": 7703704 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "image": "https://img.icons8.com/?size=100&id=19318&format=png&color=000000",
+    "description": "An American online video sharing and social media platform headquartered in San Bruno, California. It was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim. It is currently owned by Google and is the second most visited website, after Google Search. YouTube allows users to upload, view, rate, share, add to playlists, report, comment on videos, and subscribe to other users. It offers a wide variety of user-generated and corporate media videos. Available content includes video clips, TV show clips, music videos, short and documentary films, audio recordings, movie trailers, live streams, and other content.",
+    "size": 90,
+    "reviews": 120876543,
+    "ratingAvg": 4.2,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 15876543 },
+      { "name": "2 star", "count": 8765432 },
+      { "name": "3 star", "count": 14567890 },
+      { "name": "4 star", "count": 25678901 },
+      { "name": "5 star", "count": 55987777 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "image": "https://img.icons8.com/?size=100&id=DcygmpZqBEd9&format=png&color=000000",
+    "description": "A web mapping platform and consumer application offered by Google. It offers satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets (Street View), real-time traffic conditions, and route planning for traveling by foot, car, bike, air (in beta), and public transportation. Google Maps' API is widely used by third-party websites and applications to embed mapping functionalities. The app provides turn-by-turn GPS navigation, helps users discover local businesses and points of interest with ratings and reviews, and allows for offline map downloads, making it an indispensable tool for navigation and exploration worldwide.",
+    "size": 110,
+    "reviews": 16789123,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 891234 },
+      { "name": "2 star", "count": 456789 },
+      { "name": "3 star", "count": 987654 },
+      { "name": "4 star", "count": 3456789 },
+      { "name": "5 star", "count": 10996657 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Slack",
+    "companyName": "Salesforce",
+    "image": "https://img.icons8.com/?size=100&id=19978&format=png&color=000000",
+    "description": "A messaging app for business that connects people to the information they need. It transforms the way organizations communicate by bringing people together to work as one unified team. Slack offers real-time messaging, file sharing, and powerful search. It organizes conversations into dedicated spaces called channels, which can be created for specific projects, topics, or teams. It also integrates with a wide range of third-party services like Google Drive, Trello, and GitHub, allowing teams to centralize their workflows. Features like Huddles for quick audio conversations and Clips for recording video messages enhance collaboration in remote and hybrid work environments.",
+    "size": 95,
+    "reviews": 1234567,
+    "ratingAvg": 4.4,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 98765 },
+      { "name": "2 star", "count": 54321 },
+      { "name": "3 star", "count": 123456 },
+      { "name": "4 star", "count": 345678 },
+      { "name": "5 star", "count": 612347 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Canva",
+    "companyName": "Canva",
+    "image": "https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000",
+    "description": "A graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. The app includes templates for users to use. The platform is free to use and offers paid subscriptions like Canva Pro and Canva for Enterprise for additional functionality. Its intuitive drag-and-drop interface makes design accessible to everyone, regardless of their skill level. Users can access a massive library of fonts, stock photographs, illustrations, and video footage. Canva has become a go-to tool for marketers, educators, and small business owners for creating professional-looking visuals quickly and easily.",
+    "size": 45,
+    "reviews": 7891234,
+    "ratingAvg": 4.8,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 123456 },
+      { "name": "2 star", "count": 98765 },
+      { "name": "3 star", "count": 234567 },
+      { "name": "4 star", "count": 1234567 },
+      { "name": "5 star", "count": 6199879 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "image": "https://img.icons8.com/?size=100&id=82333&format=png&color=000000",
+    "description": "A cloud-based video conferencing service you can use to virtually meet with others – either by video or audio-only or both, all while conducting live chats – and it lets you record those sessions to view later. It offers high-quality video, audio, and screen-sharing capabilities for meetings, webinars, and online events. Its ease of use led to a massive surge in popularity for remote work, distance education, and online social relations. Key features include breakout rooms for splitting large meetings into smaller groups, virtual backgrounds, and robust security settings. Zoom is available on desktops, laptops, smartphones, and tablets.",
+    "size": 100,
+    "reviews": 2345678,
+    "ratingAvg": 4.1,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 345678 },
+      { "name": "2 star", "count": 123456 },
+      { "name": "3 star", "count": 234567 },
+      { "name": "4 star", "count": 567890 },
+      { "name": "5 star", "count": 1074087 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "image": "https://img.icons8.com/?size=100&id=4GPSA4oNfV6c&format=png&color=000000",
+    "description": "A ride-hailing service that offers services including peer-to-peer ridesharing, ride service hailing, food delivery (Uber Eats), and a micro-mobility system with electric bikes and scooters. The Uber app connects riders with nearby drivers who use their own cars. Users can request a ride, see the estimated fare and arrival time, and track their driver's location in real-time. Payments are handled seamlessly through the app. The company has expanded its services to include premium options like Uber Black and larger vehicles with UberXL, fundamentally changing urban transportation and the traditional taxi industry in cities around the world.",
+    "size": 130,
+    "reviews": 9876543,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 543210 },
+      { "name": "2 star", "count": 321098 },
+      { "name": "3 star", "count": 876543 },
+      { "name": "4 star", "count": 2109876 },
+      { "name": "5 star", "count": 6025816 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "image": "https://img.icons8.com/?size=100&id=63676&format=png&color=000000",
+    "description": "An image sharing and social media service designed to enable saving and discovery of information on the internet using images and, on a smaller scale, animated GIFs and videos, in the form of pinboards. The service is best described as a visual discovery engine, where users can find ideas for recipes, home and style inspiration, and more. Users can save 'Pins' they like to various 'Boards' to keep their ideas organized. This makes it a popular platform for planning events, projects, and purchases. The platform also has a strong e-commerce component, allowing users to discover and shop for products directly from Pins.",
+    "size": 65,
+    "reviews": 10123456,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 456789 },
+      { "name": "2 star", "count": 345678 },
+      { "name": "3 star", "count": 789123 },
+      { "name": "4 star", "count": 2345678 },
+      { "name": "5 star", "count": 6186188 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "LinkedIn",
+    "companyName": "Microsoft Corporation",
+    "image": "https://img.icons8.com/?size=100&id=8808&format=png&color=000000",
+    "description": "An American business and employment-oriented online service that operates via websites and mobile apps. Launched on May 5, 2003, the platform is primarily used for professional networking and career development, and allows job seekers to post their CVs and employers to post jobs. It's a place for professionals to create a digital resume, showcase their skills and experience, and connect with colleagues, industry leaders, and potential employers. Users can share articles, join groups based on their industry or interests, and gain insights from influential people in their field. It has become an essential tool for personal branding and recruitment.",
+    "size": 88,
+    "reviews": 3456789,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 234567 },
+      { "name": "2 star", "count": 123456 },
+      { "name": "3 star", "count": 345678 },
+      { "name": "4 star", "count": 891234 },
+      { "name": "5 star", "count": 1861854 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "X (formerly Twitter)",
+    "companyName": "X Corp.",
+    "image": "https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000",
+    "description": "An online news and social networking service where users post and interact with messages, known as 'tweets' before its rebranding. Registered users can post, like, and retweet posts, but unregistered users can only read those that are publicly available. It is often described as a 'microblogging' platform due to its character limit on posts. X is known for its real-time information flow, making it a primary source for breaking news and live event commentary. Users follow accounts of interest, and the platform's 'trending topics' feature highlights the most discussed subjects at any given moment, shaping public discourse worldwide.",
+    "size": 98,
+    "reviews": 35876543,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3456789 },
+      { "name": "2 star", "count": 1234567 },
+      { "name": "3 star", "count": 4567890 },
+      { "name": "4 star", "count": 8765432 },
+      { "name": "5 star", "count": 17851865 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Duolingo",
+    "companyName": "Duolingo, Inc.",
+    "image": "https://img.icons8.com/?size=100&id=xC8UrfjJ0QAX&format=png&color=000000",
+    "description": "A language-learning platform that includes a language-learning website and mobile app, as well as a digital language proficiency assessment exam. The app uses a gamified approach to make learning fun and addictive. Users earn points for correct answers, race against the clock, and level up. Its bite-sized lessons are effective and focus on reading, writing, listening, and speaking skills. Duolingo offers a wide range of languages, from popular choices like Spanish and French to less common ones like Welsh and Navajo. The basic service is free, with a premium subscription available to remove ads and unlock additional features.",
+    "size": 50,
+    "reviews": 15432109,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 432109 },
+      { "name": "2 star", "count": 321098 },
+      { "name": "3 star", "count": 789123 },
+      { "name": "4 star", "count": 2345678 },
+      { "name": "5 star", "count": 11544101 }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Minecraft",
+    "companyName": "Mojang Studios",
+    "image": "https://img.icons8.com/?size=100&id=16462&format=png&color=000000",
+    "description": "A sandbox video game developed by Mojang Studios. In Minecraft, players explore a blocky, procedurally generated 3D world with virtually infinite terrain, and may discover and extract raw materials, craft tools and items, and build structures or earthworks. Depending on game mode, players can fight computer-controlled mobs, as well as cooperate with or compete against other players in the same world. Game modes include a survival mode, in which players must acquire resources to build the world and maintain health, and a creative mode, where players have unlimited resources to build with and the ability to fly.",
+    "size": 200,
+    "reviews": 4567890,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+        { "name": "1 star", "count": 234567 },
+        { "name": "2 star", "count": 123456 },
+        { "name": "3 star", "count": 345678 },
+        { "name": "4 star", "count": 891234 },
+        { "name": "5 star", "count": 2972955 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Adobe Lightroom",
+    "companyName": "Adobe Inc.",
+    "image": "https://img.icons8.com/?size=100&id=cAVP5AOANxnf&format=png&color=000000",
+    "description": "A creative image organization and image manipulation software developed by Adobe Inc. as part of the Creative Cloud subscription family. It is supported on Windows, macOS, iOS, Android, and tvOS. Its primary uses include importing, saving, viewing, organizing, tagging, editing, and sharing large numbers of digital images. Unlike Photoshop, Lightroom is a non-destructive editor, which means the original files remain untouched. It's especially popular among professional photographers for its powerful batch processing capabilities, RAW file handling, and cloud-based ecosystem that syncs photos and edits across all devices seamlessly, ensuring a consistent workflow.",
+    "size": 150,
+    "reviews": 2345678,
+    "ratingAvg": 4.8,
+    "downloads": 100000000,
+    "ratings": [
+        { "name": "1 star", "count": 54321 },
+        { "name": "2 star", "count": 43210 },
+        { "name": "3 star", "count": 98765 },
+        { "name": "4 star", "count": 456789 },
+        { "name": "5 star", "count": 1692593 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "image": "https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000",
+    "description": "A free email service provided by Google. As of 2019, it had 1.5 billion active users worldwide. A user typically accesses Gmail in a web browser or the official mobile app. Gmail provides users with a generous amount of storage and has a powerful search interface and a 'conversation view' that groups related emails. It is known for its excellent spam filtering and its automatic sorting of emails into categories like Primary, Social, and Promotions. Deeply integrated with the Google ecosystem, it connects seamlessly with Google Drive for attachments, Google Calendar for events, and Google Meet for video conferencing.",
+    "size": 80,
+    "reviews": 9876543,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+        { "name": "1 star", "count": 456789 },
+        { "name": "2 star", "count": 345678 },
+        { "name": "3 star", "count": 789123 },
+        { "name": "4 star", "count": 2345678 },
+        { "name": "5 star", "count": 5939275 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Microsoft Word",
+    "companyName": "Microsoft Corporation",
+    "image": "https://img.icons8.com/?size=100&id=mx1hqDffOxmy&format=png&color=000000",
+    "description": "A word processor developed by Microsoft. It was first released on October 25, 1983, under the name Multi-Tool Word for Xenix systems. As a core component of the Microsoft Office suite of software, it is the de facto standard for document creation in business and academic settings. Word provides comprehensive tools for creating everything from simple letters and memos to complex reports, theses, and books. It includes robust text formatting options, spell check and grammar tools, templates, mail merge capabilities, and advanced collaboration features like track changes and comments, making it an essential tool for productivity.",
+    "size": 180,
+    "reviews": 5678912,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+        { "name": "1 star", "count": 123456 },
+        { "name": "2 star", "count": 98765 },
+        { "name": "3 star", "count": 345678 },
+        { "name": "4 star", "count": 1234567 },
+        { "name": "5 star", "count": 3876446 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Tinder",
+    "companyName": "Match Group, LLC",
+    "image": "https://img.icons8.com/?size=100&id=118619&format=png&color=000000",
+    "description": "An online dating and geosocial networking application. In Tinder, users 'swipe right' to like or 'swipe left' to dislike other users' profiles, which include their photo, a short bio, and a list of their interests. Tinder uses a 'double opt-in' system where both users must like each other before they can exchange messages. It pioneered this swipe interface, which has since been adopted by many other services. The app is widely recognized for its impact on modern dating culture, making it easier for people to connect based on initial attraction and geographic proximity. Premium features offer unlimited swipes and location changes.",
+    "size": 70,
+    "reviews": 5876543,
+    "ratingAvg": 3.4,
+    "downloads": 100000000,
+    "ratings": [
+        { "name": "1 star", "count": 1543210 },
+        { "name": "2 star", "count": 876543 },
+        { "name": "3 star", "count": 987654 },
+        { "name": "4 star", "count": 1123456 },
+        { "name": "5 star", "count": 1345680 }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "image": "https://img.icons8.com/?size=100&id=ArJvfHiqhZSV&format=png&color=000000",
+    "description": "An application that can identify music, movies, advertising, and television shows, based on a short sample played and using the microphone on the device. It was created by London-based Shazam Entertainment, and has been owned by Apple Inc. since 2018. The software works by creating a digital fingerprint of an audio sample and comparing it against a central database. Once a match is found, the app provides the user with information such as the song title, artist, and album. It also integrates with services like Apple Music and Spotify, allowing users to listen to the full song instantly.",
+    "size": 30,
+    "reviews": 8765432,
+    "ratingAvg": 4.8,
+    "downloads": 500000000,
+    "ratings": [
+        { "name": "1 star", "count": 123456 },
+        { "name": "2 star", "count": 98765 },
+        { "name": "3 star", "count": 234567 },
+        { "name": "4 star", "count": 1345678 },
+        { "name": "5 star", "count": 6962966 }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "image": "https://img.icons8.com/?size=100&id=63306&format=png&color=000000",
+    "description": "A globally accessible freemium, cross-platform, cloud-based instant messaging service. The service also provides end-to-end encrypted video calling, VoIP, file sharing and several other features. It was launched for iOS on 14 August 2013 and Android in October 2013. Telegram is known for its strong focus on privacy and security, offering optional end-to-end encrypted 'Secret Chats'. It also supports massive group chats (up to 200,000 members), channels for broadcasting messages to a large audience, and the ability to send large files up to 2 GB in size, making it a powerful communication tool.",
+    "size": 40,
+    "reviews": 12345678,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+        { "name": "1 star", "count": 654321 },
+        { "name": "2 star", "count": 321098 },
+        { "name": "3 star", "count": 789123 },
+        { "name": "4 star", "count": 2345678 },
+        { "name": "5 star", "count": 8235458 }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "image": "https://img.icons8.com/?size=100&id=OFOIleplyyh7&format=png&color=000000",
+    "description": "An online marketplace for arranging or offering lodging, primarily homestays, or tourism experiences. The company does not own any of the real estate listings, nor does it host events; it acts as a broker, receiving commissions from each booking. The platform connects 'hosts' who rent out their properties or spare rooms with 'guests' seeking accommodations. It offers a wide variety of options, from single rooms to entire houses and unique properties like castles and treehouses. A user review system helps build trust within the community, and the platform has expanded to include 'Airbnb Experiences,' which are activities designed and led by local experts.",
+    "size": 160,
+    "reviews": 1543210,
+    "ratingAvg": 4.7,
+    "downloads": 100000000,
+    "ratings": [
+        { "name": "1 star", "count": 43210 },
+        { "name": "2 star", "count": 32109 },
+        { "name": "3 star", "count": 87654 },
+        { "name": "4 star", "count": 345678 },
+        { "name": "5 star", "count": 1034559 }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Amazon Shopping",
+    "companyName": "Amazon",
+    "image": "https://img.icons8.com/?size=100&id=TfhgUym1Y8vb&format=png&color=000000",
+    "description": "The official mobile app for the world's largest online retailer. The Amazon Shopping app lets you shop millions of products and manage your Amazon orders from anywhere. Users can browse, shop by department, compare prices, read reviews, share products with friends, and check the status of their orders. The app provides access to personalized recommendations, lightning deals, and features like camera search, which allows users to find items by pointing their camera at them. For Prime members, it's the gateway to benefits like fast, free shipping and access to Prime Video and Music, offering a comprehensive retail experience.",
+    "size": 115,
+    "reviews": 7654321,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+        { "name": "1 star", "count": 345678 },
+        { "name": "2 star", "count": 234567 },
+        { "name": "3 star", "count": 567890 },
+        { "name": "4 star", "count": 1567890 },
+        { "name": "5 star", "count": 4938296 }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "image": "https://img.icons8.com/?size=100&id=13657&format=png&color=000000",
+    "description": "A file hosting service that offers cloud storage, file synchronization, personal cloud, and client software. Dropbox brings your files together in one central place by creating a special folder on the user's computer. The contents of this folder are synchronized to Dropbox's servers and to other computers and devices where the user has installed Dropbox, keeping the same files up-to-date on all devices. It is widely used for backing up important files, sharing photos and documents with others via simple links, and collaborating on projects with team members, making it a foundational tool for modern digital workflows.",
+    "size": 92,
+    "reviews": 2109876,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+        { "name": "1 star", "count": 109876 },
+        { "name": "2 star", "count": 87654 },
+        { "name": "3 star", "count": 210987 },
+        { "name": "4 star", "count": 543210 },
+        { "name": "5 star", "count": 1158149 }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Audible",
+    "companyName": "Amazon",
+    "image": "https://img.icons8.com/?size=100&id=yrCgfmK2ZXNn&format=png&color=000000",
+    "description": "A seller and producer of spoken audio entertainment, information, and educational programming on the Internet. Audible sells digital audiobooks, radio and television programs, and audio versions of magazines and newspapers. It is the world's largest producer of downloadable audiobooks. The service typically operates on a subscription model, where users receive monthly credits to purchase any audiobook in the library, regardless of its price. The app allows for offline listening, variable narration speed, and Whispersync for Voice, which syncs reading progress between the Kindle eBook and the Audible audiobook, providing a flexible listening and reading experience.",
+    "size": 85,
+    "reviews": 1876543,
+    "ratingAvg": 4.7,
+    "downloads": 100000000,
+    "ratings": [
+        { "name": "1 star", "count": 54321 },
+        { "name": "2 star", "count": 43210 },
+        { "name": "3 star", "count": 98765 },
+        { "name": "4 star", "count": 345678 },
+        { "name": "5 star", "count": 1334569 }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "image": "https://img.icons8.com/?size=100&id=ya4CrqO7PgnY&format=png&color=000000",
+    "description": "A file storage and synchronization service developed by Google. Launched on April 24, 2012, Google Drive allows users to store files in the cloud (on Google's servers), synchronize files across devices, and share files. In addition to a website, Google Drive offers apps with offline capabilities for Windows and macOS computers, and Android and iOS smartphones and tablets. It is deeply integrated with the company's office suite, Google Docs, Sheets, and Slides, which allows for collaborative editing of documents, spreadsheets, presentations, drawings, forms, and more, making it a powerful hub for both personal storage and team productivity.",
+    "size": 75,
+    "reviews": 6543210,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+        { "name": "1 star", "count": 234567 },
+        { "name": "2 star", "count": 123456 },
+        { "name": "3 star", "count": 456789 },
+        { "name": "4 star", "count": 1345678 },
+        { "name": "5 star", "count": 4382720 }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "image": "https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000",
+    "description": "A VoIP, instant messaging and digital distribution platform. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called 'servers'. A server is a collection of persistent chat rooms and voice chat channels which can be accessed via invite links. Although initially created for gamers, it has since branched out to become a general-purpose communication tool for various communities, from study groups to art collectives. It offers high-quality, low-latency voice chat, robust moderation tools for server administrators, and screen sharing capabilities for collaboration and streaming.",
+    "size": 110,
+    "reviews": 14321098,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+        { "name": "1 star", "count": 876543 },
+        { "name": "2 star", "count": 432109 },
+        { "name": "3 star", "count": 987654 },
+        { "name": "4 star", "count": 2567890 },
+        { "name": "5 star", "count": 9456902 }
+    ]
+  }
+]
